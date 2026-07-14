@@ -96,7 +96,6 @@ DevOps & Cloud Engineer with hands-on experience building and automating cloud i
 
 # 🚀 Featured Projects
 
-- 🚨 **CloudRescue AI** – Autonomous AI-powered Cloud Disaster Recovery Platform
 - ☸️ **Production Kubernetes IDE Platform** – Multi-container IDE deployed on Rancher RKE2 Kubernetes
 - 🔄 **GitOps Platform** – Kubernetes deployments with ArgoCD and GitHub Actions
 - 🛡️ **DevSecOps CI/CD Pipeline** – Jenkins, SonarQube, Trivy, Checkov, Docker, Kubernetes
